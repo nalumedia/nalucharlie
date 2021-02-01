@@ -5,7 +5,7 @@ ruby '3.0.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.1.1'
-
+gem 'bootstrap-sass'
 gem 'pg'
 gem 'rails_12factor', group: :production
 # Use Puma as the app server
